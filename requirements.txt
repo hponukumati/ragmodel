@@ -1,0 +1,7 @@
+streamlit
+haystack-ai
+openai
+pypdf
+python-docx
+upstash-redis
+pika
